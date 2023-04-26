@@ -472,5 +472,11 @@
         "latitude": -16.67769,
         "longitude": -49.26235,
         "name": "SUPERINTENDENCIA DE PATRIMONIO"
-  }                            
+  },
+  {
+        "chave": "PBE",
+        "latitude": -15.16885,
+        "longitude": -48,28414,
+        "nome": "PADRE BERNARDO"
+  }
 ]
